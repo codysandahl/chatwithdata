@@ -1,3 +1,7 @@
+# Streamlit dashboard using Plotly Express
+# TO RUN:
+#   streamlit run 2024-05-chatgpt-streamlit.py
+
 import streamlit as st
 import pandas as pd
 import plotly.express as px
